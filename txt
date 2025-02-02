@@ -1,0 +1,19 @@
+1) Import all the necessary libraries
+
+2) Import data to pandas dataframe
+
+3) Check how many rows and columns, check categorical features, missing values
+
+4) Data analysis, statistical measures, distribution of values, count plots
+
+5) Encode categorical features into numerical values
+
+6) Split data into 'Features' & 'Targets'
+
+7) Split data into 'Training data' & 'Testing data'
+
+8) Train a linear regression model
+
+9) Evaluate model
+
+10) Build a predictive system
